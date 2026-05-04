@@ -1,0 +1,6 @@
+SISTEMA DE CONTROLE DE TAREFAS
+
+- Estudar comandos de Git (Branch e Merge)
+- Criar a estrutura de pastas do SENAI
+- Realizar o primeiro commit na branch dev
+- Criar tag v1.0
